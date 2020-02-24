@@ -1,12 +1,1 @@
-# These are supported funding model platforms
-
-github:qiokio # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon:qiokio # Replace with a single Patreon username
-open_collective: qiokio# Replace with a single Open Collective username
-ko_fi:qiokio # Replace with a single Ko-fi username
-tidelift:qiokio # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge:qiokio # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay:qiokio # Replace with a single Liberapay username
-issuehunt: qiokio# Replace with a single IssueHunt username
-otechie:qiokio # Replace with a single Otechie username
-custom:qiokio # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ["https://qr.alipay.com/fkx16569mnf1v0vnetuxxd5", qiokio.github.io]
